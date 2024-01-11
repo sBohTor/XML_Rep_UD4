@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria SYSTEM "Libreria.dtd">
 
 <libreria>
     <libro>
         <autores>
             <autor>
-                <apellido>Gómez</apellido>
-                <apellido>Jurado</apellido>
+                <apellido1>Gómez</apellido1>
+                <apellido2>Jurado</apellido2>
                 <nombre>Juan</nombre>
             </autor>
         </autores>
@@ -18,7 +19,8 @@
     <libro>
         <autores>
             <autor>
-                <apellido >Mola</apellido>
+                <apellido1>Mola</apellido1>
+                <apellido2>Mola</apellido2>
                 <nombre>Carmen</nombre>
             </autor>
         </autores>
@@ -32,7 +34,7 @@
     <libro>
         <autores>
             <autor>
-                <apellido>Follett</apellido>
+                <apellido1>Follett</apellido1>
                 <nombre>Carmen</nombre>
             </autor>
         </autores>
@@ -45,6 +47,7 @@
     <libro>
         <autores>
             <autor>
+                <apellido1>Jimenez</apellido1>
                 <nombre>La Vecina Rubia</nombre>
             </autor>
         </autores>
@@ -57,8 +60,8 @@
     <libro>
         <autores>
             <autor>
-                <apellido>Goscinny</apellido>
-                <apellido>René</apellido>
+                <apellido1>Goscinny</apellido1>
+                <apellido2>René</apellido2>
                 <nombre>Fabcaro</nombre>
             </autor>
         </autores>
@@ -71,8 +74,8 @@
     <libro>
         <autores>
             <autor>
-                <apellido>Goscinny</apellido>
-                <apellido>René</apellido>
+                <apellido1>Goscinny</apellido1>
+                <apellido2>René</apellido2>
                 <nombre>Fabcaro</nombre>
             </autor>
         </autores>
@@ -85,8 +88,8 @@
     <libro>
         <autores>
             <autor>
-                <apellido>Perez</apellido>
-                <apellido>Reverte</apellido>
+                <apellido1>Perez</apellido1>
+                <apellido2>Reverte</apellido2>
                 <nombre>Arturo</nombre>
             </autor>
         </autores>
@@ -99,8 +102,8 @@
     <libro>
         <autores>
             <autor>
-                <apellido>Perez</apellido>
-                <apellido>Reverte</apellido>
+                <apellido1>Perez</apellido1>
+                <apellido2>Reverte</apellido2>
                 <nombre>Arturo</nombre>
             </autor>
         </autores>
@@ -113,8 +116,8 @@
     <libro>
         <autores>
             <autor>
-                <apellido>Muñoz</apellido>
-                <apellido>Molina</apellido>
+                <apellido1>Muñoz</apellido1>
+                <apellido2>Molina</apellido2>
                 <nombre>Antonio</nombre>
             </autor>
         </autores>
@@ -127,7 +130,8 @@
     <libro>
         <autores>
             <autor>
-                <apellido>Clear</apellido>
+                <apellido1>Clear</apellido1>
+                <apellido2>Mola</apellido2>
                 <nombre>James</nombre>
             </autor>
         </autores>

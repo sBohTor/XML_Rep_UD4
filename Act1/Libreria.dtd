@@ -1,19 +1,11 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE BDsms
-[
-<!ELEMENT BDsms (sms*)>
-<!ELEMENT sms (telefono,fecha,hora,mensaje)>
-<!ELEMENT telefono (#PCDATA)>
-<!ELEMENT fecha (#PCDATA)>
-<!ELEMENT hora (#PCDATA)>
-<!ELEMENT mensaje (#PCDATA)>
-
-<BDsms>
-    <sms>
-        <telefono>955 55 66 55</telefono>
-        
-
-
-
-
-</BDsms>
+<!ELEMENT libreria (libro*)>
+<!ELEMENT libro (autores,titulo,editorial,fechaPublicacion,ISBN)>
+<!ELEMENT autores (autor*)>
+<!ELEMENT autor (apellido1,apellido2*,nombre)>
+<!ELEMENT apellido1 (#PCDATA)>
+<!ELEMENT apellido2 (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+<!ELEMENT fechaPublicacion (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
