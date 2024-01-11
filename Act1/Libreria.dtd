@@ -7,7 +7,6 @@
 <!ELEMENT fecha (#PCDATA)>
 <!ELEMENT hora (#PCDATA)>
 <!ELEMENT mensaje (#PCDATA)>
-]>
 
 <BDsms>
     <sms>
