@@ -1,0 +1,6 @@
+<!ELEMENT BDsms (registro*)>
+<!ELEMENT registro (numero, fechaRegistrada, horaRegistrada, texto)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT fechaRegistrada (#PCDATA)>
+<!ELEMENT horaRegistrada (#PCDATA)>
+<!ELEMENT texto (#PCDATA)>

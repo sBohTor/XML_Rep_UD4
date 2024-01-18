@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coleccion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Coleccion.xsd">
+
+    <artefacto>
+        <creadores>
+            <creador>
+                <apellido1>Perez</apellido1>
+                <apellido2>Garcia</apellido2>
+                <nombre>Carmen</nombre>
+            </creador>
+            <creador>
+                <apellido1>Lopez</apellido1>
+                <apellido2>Martinez</apellido2>
+                <nombre>Maria</nombre>
+            </creador>
+        </creadores>
+        <tipo>Pintura</tipo>
+        <estilo>Expresionismo</estilo>
+        <dimensiones>100cm x 200cm</dimensiones>
+        <materiales>Acrilico</materiales>
+        <fechaCreacion>1 de enero de 2024</fechaCreacion>
+        <codigoArtefacto>978-84-19640-00-0 </codigoArtefacto>
+    </artefacto>
+  
+    <artefacto>
+        <creadores>
+            <creador>
+                <apellido1>Gonzalez</apellido1>
+                <apellido2>Lopez</apellido2>
+                <nombre>Juan</nombre>
+            </creador>
+            <creador>
+                <apellido1>Fernandez</apellido1>
+                <apellido2>Gomez</apellido2>
+                <nombre>Ana</nombre>
+            </creador>
+        </creadores>
+        <tipo>Escultura</tipo>
+        <estilo>Realismo</estilo>
+        <dimensiones>50cm x 30cm x 20cm</dimensiones>
+        <materiales>Madera</materiales>
+        <fechaCreacion>1 de enero de 2024</fechaCreacion>
+        <codigoArtefacto>978-84-19640-00-1 </codigoArtefacto>
+    </artefacto>
+  
+    <artefacto>
+        <creadores>
+            <creador>
+                <apellido1>Morales</apellido1>
+                <apellido2>Rodriguez</apellido2>
+                <nombre>Pedro</nombre>
+            </creador>
+        </creadores>
+        <tipo>Fotografia</tipo>
+        <estilo>Impresionismo</estilo>
+        <dimensiones>20cm x 30cm</dimensiones>
+        <materiales>Papel</materiales>
+        <fechaCreacion>1 de enero de 2024</fechaCreacion>
+        <codigoArtefacto>978-84-19640-00-2 </codigoArtefacto>
+    </artefacto>
+  </coleccion>

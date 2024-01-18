@@ -1,0 +1,13 @@
+<!ELEMENT coleccion (artefacto*)>
+<!ELEMENT artefacto (creadores, tipo, estilo, dimensiones, materiales, fechaCreacion, codigoArtefacto)>
+<!ELEMENT creadores (creador+)>
+<!ELEMENT creador (apellido1, apellido2, nombre)>
+<!ELEMENT apellido1 (#PCDATA)>
+<!ELEMENT apellido2 (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT estilo (#PCDATA)>
+<!ELEMENT dimensiones (#PCDATA)>
+<!ELEMENT materiales (#PCDATA)>
+<!ELEMENT fechaCreacion (#PCDATA)>
+<!ELEMENT codigoArtefacto (#PCDATA)>

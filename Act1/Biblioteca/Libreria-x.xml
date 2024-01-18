@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<libreria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Libreria.xsd">
 
-<libreria>
+
     <libro>
         <autores>
             <autor>

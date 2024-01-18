@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BDsms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="BDsms-mejora-x.xsd">
+
+    <registro>
+        <numero>123456789</numero>
+        <fechaRegistrada>1/1/2000</fechaRegistrada>
+        <horaRegistrada>12:00</horaRegistrada>
+        <texto>Nuevo mensaje</texto>
+    </registro>
+    <registro>
+        <numero>987654321</numero>
+        <fechaRegistrada>2/2/2002</fechaRegistrada>
+        <horaRegistrada>13:00</horaRegistrada>
+        <texto>Otro nuevo mensaje</texto> 
+    </registro>
+    <registro>
+        <numero>112233445</numero>
+        <fechaRegistrada>3/3/2003</fechaRegistrada>
+        <horaRegistrada>14:00</horaRegistrada>
+        <texto>Y otro nuevo mensaje</texto>
+    </registro>
+</BDsms>    
