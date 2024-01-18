@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BDsms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="BDsmsSchema.xsd">
+
+
+    <sms>
+        <telefono>673643321</telefono>
+        <fecha>4/2/1999</fecha>
+        <hora>22:55</hora>
+        <mensaje>Juego1: WOW</mensaje>
+    </sms>
+    <sms>
+        <telefono>657683331</telefono>
+        <fecha>1/12/2012</fecha>
+        <hora>13:45</hora>
+        <mensaje>Juego2: Fortnite</mensaje> 
+    </sms>
+    <sms>
+        <telefono>345221177</telefono>
+        <fecha>22/5/2003</fecha>
+        <hora>15:21</hora>
+        <mensaje>Juego1: Tetris</mensaje>
+    </sms>
+</BDsms>
