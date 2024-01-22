@@ -1,0 +1,84 @@
+<?xml version="1.1" encoding="GB2312"?>
+<Clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Clientes-avanzado.xsd">
+    
+    <Cliente codigo="XYZ-789">
+        <Sede>NY</Sede>
+        <Empleado>Maria Rodriguez</Empleado>
+        <Fecha>2024-02-22</Fecha>
+        <Detalles>
+            <Descripcion>Insolvente</Descripcion>
+            <Vivienda ID="001">
+                <Coste>900000</Coste>
+                <Resumen>Casa 4 pisos de lujo</Resumen>
+                <Plazo>2027-10-10</Plazo>
+            </Vivienda>
+        </Detalles>
+    </Cliente>
+    <Cliente codigo="LMN-456">
+        <Sede>LA</Sede>
+        <Empleado>Carlos Garcia</Empleado>
+        <Fecha>2024-03-22</Fecha>
+        <Detalles>
+            <Descripcion>Solvente</Descripcion>
+            <Vivienda ID="001">
+                <Coste>90000</Coste>
+                <Resumen>Casa con garaje centro sevilla</Resumen>
+                <Plazo>2025-11-20</Plazo>
+            </Vivienda>
+        </Detalles>
+    </Cliente>
+    <Cliente codigo="OPQ-012">
+        <Sede>TX</Sede>
+        <Empleado>Juan Martinez</Empleado>
+        <Fecha>2024-04-22</Fecha>
+        <Detalles>
+            <Descripcion>Solvente</Descripcion>
+            <Vivienda ID="001">
+                <Coste>500000</Coste>
+                <Resumen>Piso Centro madrid planta 12</Resumen>
+                <Plazo>2026-01-30</Plazo>
+            </Vivienda>
+        </Detalles>
+    </Cliente>
+    <Cliente codigo="RST-345">
+        <Sede>FL</Sede>
+        <Empleado>Pedro Lopez</Empleado>
+        <Fecha>2024-05-22</Fecha>
+        <Detalles>
+            <Descripcion>Insolvente</Descripcion>
+            <Vivienda ID="001">
+                <Coste>5000</Coste>
+                <Resumen>Vivienda de lujo El bosque</Resumen>
+                <Plazo>2025-05-22</Plazo>
+            </Vivienda>
+            <Vivienda ID="002">
+                <Coste>10000</Coste>
+                <Resumen>Vivienda de lujo Ubrique</Resumen>
+                <Plazo>2025-05-22</Plazo>
+            </Vivienda>
+        </Detalles>
+    </Cliente>
+    <Cliente codigo="UVW-678">
+        <Sede>IL</Sede>
+        <Empleado>Laura Fernandez</Empleado>
+        <Fecha>2024-06-22</Fecha>
+        <Detalles>
+            <Descripcion>Solvente</Descripcion>
+            <Vivienda ID="001">
+                <Coste>5000</Coste>
+                <Resumen>Vivienda Piso Madrid</Resumen>
+                <Plazo>2024-10-12</Plazo>
+            </Vivienda>
+            <Vivienda ID="002">
+                <Coste>5000</Coste>
+                <Resumen>Chalet Marbella</Resumen>
+                <Plazo>2025-01-20</Plazo>
+            </Vivienda>
+            <Vivienda ID="003">
+                <Coste>5000</Coste>
+                <Resumen>Casa de arbol</Resumen>
+                <Plazo>2026-02-21</Plazo>
+            </Vivienda>
+        </Detalles>
+    </Cliente>
+</Clientes>

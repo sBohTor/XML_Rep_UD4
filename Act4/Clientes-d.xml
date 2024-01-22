@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Clientes SYSTEM "clientes.dtd">
+<Clientes>
+    <Cliente>
+        <Sede>NY</Sede>
+        <Empleado>Maria Rodriguez</Empleado>
+        <Fecha>2024-02-22</Fecha>
+        <Detalles>
+            <Codigo>XYZ-789</Codigo>
+            <Descripcion>Insolvente</Descripcion>
+            <NumViviendas>3</NumViviendas>
+            <Coste>60000</Coste>
+            <Resumen>Tres viviendas de lujo</Resumen>
+            <Plazo>2025-02-22</Plazo>
+        </Detalles>
+    </Cliente>
+    <Cliente>
+        <Sede>LA</Sede>
+        <Empleado>Carlos Garcia</Empleado>
+        <Fecha>2024-03-22</Fecha>
+        <Detalles>
+            <Codigo>LMN-456</Codigo>
+            <Descripcion>Solvente</Descripcion>
+            <NumViviendas>1</NumViviendas>
+            <Coste>30000</Coste>
+            <Resumen>Una vivienda de lujo</Resumen>
+            <Plazo>2025-03-22</Plazo>
+        </Detalles>
+    </Cliente>
+    <Cliente>
+        <Sede>TX</Sede>
+        <Empleado>Juan Martinez</Empleado>
+        <Fecha>2024-04-22</Fecha>
+        <Detalles>
+            <Codigo>OPQ-012</Codigo>
+            <Descripcion>Solvente</Descripcion>
+            <NumViviendas>4</NumViviendas>
+            <Coste>70000</Coste>
+            <Resumen>Cuatro viviendas de lujo</Resumen>
+            <Plazo>2025-04-22</Plazo>
+        </Detalles>
+    </Cliente>
+    <Cliente>
+        <Sede>FL</Sede>
+        <Empleado>Pedro Lopez</Empleado>
+        <Fecha>2024-05-22</Fecha>
+        <Detalles>
+            <Codigo>RST-345</Codigo>
+            <Descripcion>Insolvente</Descripcion>
+            <NumViviendas>2</NumViviendas>
+            <Coste>50000</Coste>
+            <Resumen>Dos viviendas de lujo</Resumen>
+            <Plazo>2025-05-22</Plazo>
+        </Detalles>
+    </Cliente>
+    <Cliente>
+        <Sede>IL</Sede>
+        <Empleado>Laura Fernandez</Empleado>
+        <Fecha>2024-06-22</Fecha>
+        <Detalles>
+            <Codigo>UVW-678</Codigo>
+            <Descripcion>Solvente</Descripcion>
+            <NumViviendas>3</NumViviendas>
+            <Coste>60000</Coste>
+            <Resumen>Tres viviendas de lujo</Resumen>
+            <Plazo>2025-06-22</Plazo>
+        </Detalles>
+    </Cliente>
+</Clientes>
