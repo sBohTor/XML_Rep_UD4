@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Concesionario SYSTEM "../Act2/Concesionario.dtd">
 
-<Concesionario>  
+<Concesionario>
     <coches>
         <codigoCoche>0</codigoCoche>
         <marca>BMW</marca>

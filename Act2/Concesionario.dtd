@@ -3,7 +3,7 @@
 <!ELEMENT codigoCoche (#PCDATA)>
 <!ELEMENT marca (#PCDATA)>
 <!ELEMENT modelo (#PCDATA)>
-<!ELEMENT matricula (#PCDATA)> 
-<!ELEMENT potencia (#PCDATA)> 
-<!ELEMENT plazas (#PCDATA)> 
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT potencia (#PCDATA)>
+<!ELEMENT plazas (#PCDATA)>
 <!ELEMENT numeroPuertas (#PCDATA)> 

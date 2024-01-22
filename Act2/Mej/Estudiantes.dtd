@@ -1,0 +1,7 @@
+<!ELEMENT Estudiantes (estudiante+)>
+<!ELEMENT estudiante (nombre, edad, carrera, universidad, promedio)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT carrera (#PCDATA)>
+<!ELEMENT universidad (#PCDATA)>
+<!ELEMENT promedio (#PCDATA)>

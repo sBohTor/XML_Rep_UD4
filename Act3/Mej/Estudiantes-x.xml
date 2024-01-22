@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Estudiantes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="..\..\Act2\Mej\Estudiantes.xsd">
+    <estudiante>
+        <nombre>Juan Pérez</nombre>
+        <edad>20</edad>
+        <carrera>Ingeniería en Computación</carrera>
+        <universidad>Universidad XYZ</universidad>
+        <promedio>8.5</promedio>
+    </estudiante>
+    <estudiante>
+        <nombre>Ana Sánchez</nombre>
+        <edad>22</edad>
+        <carrera>Derecho</carrera>
+        <universidad>Universidad ABC</universidad>
+        <promedio>9.0</promedio>
+    </estudiante>
+    <estudiante>
+        <nombre>Carlos López</nombre>
+        <edad>21</edad>
+        <carrera>Medicina</carrera>
+        <universidad>Universidad DEF</universidad>
+        <promedio>8.8</promedio>
+    </estudiante>
+    <estudiante>
+        <nombre>Maria García</nombre>
+        <edad>23</edad>
+        <carrera>Arquitectura</carrera>
+        <universidad>Universidad GHI</universidad>
+        <promedio>8.7</promedio>
+    </estudiante>
+    <estudiante>
+        <nombre>Pedro Martínez</nombre>
+        <edad>24</edad>
+        <carrera>Periodismo</carrera>
+        <universidad>Universidad JKL</universidad>
+        <promedio>8.9</promedio>
+    </estudiante>
+</Estudiantes>

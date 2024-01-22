@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Concesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="..\Act2\Concesionario.xsd">
+
+    <coches>
+        <codigoCoche>0</codigoCoche>
+        <marca>BMW</marca>
+        <modelo>1</modelo>
+        <matricula>3323 NVK</matricula>
+        <potencia>405CV</potencia>
+        <plazas>4</plazas>
+        <numeroPuertas>5</numeroPuertas>
+    </coches>
+    <coches>
+        <codigoCoche>1</codigoCoche>
+        <marca>Lamborguini</marca>
+        <modelo>Huracan</modelo>
+        <matricula>1233 CCK</matricula>
+        <potencia>579CV</potencia>
+        <plazas>2</plazas>
+        <numeroPuertas>3</numeroPuertas>
+    </coches>
+    <coches>
+        <codigoCoche>2</codigoCoche>
+        <marca>BMW</marca>
+        <modelo>1</modelo>
+        <matricula>3323 NVK</matricula>
+        <potencia>405CV</potencia>
+        <plazas>4</plazas>
+        <numeroPuertas>5</numeroPuertas>
+    </coches>
+    <coches>
+        <codigoCoche>3</codigoCoche>
+        <marca>Hyundai</marca>
+        <modelo>Coupe V6</modelo>
+        <matricula>0987 RTX</matricula>
+        <potencia>170CV</potencia>
+        <plazas>4</plazas>
+        <numeroPuertas>3</numeroPuertas>
+    </coches>
+</Concesionario>
