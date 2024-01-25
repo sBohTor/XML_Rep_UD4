@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alumnado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Alumnadox.xsd">
+    <Alumno>
+        <NIF>12345678Z</NIF>
+        <Resultado>apto</Resultado>
+        <Observaciones>Buen estudiante</Observaciones>
+        <IP>192.168.1.1</IP>
+    </Alumno>
+    <Alumno>
+        <NIF>23456789A</NIF>
+        <Resultado>No apto</Resultado>
+        <Observaciones>Estudiante regular</Observaciones>
+        <MAC>00:11:22:33:44:55</MAC>
+    </Alumno>
+    <Alumno>
+        <NIF>34567890B</NIF>
+        <Resultado>apto</Resultado>
+        <Observaciones>Estudiante destacado</Observaciones>
+        <IP>192.168.1.2</IP>
+    </Alumno>
+    <Alumno>
+        <NIF>45678901C</NIF>
+        <Resultado>No apto</Resultado>
+        <Observaciones>Estudiante con problemas de comportamiento</Observaciones>
+        <MAC>66:77:88:99:AA:BB</MAC>
+    </Alumno>
+    <Alumno>
+        <NIF>56789012D</NIF>
+        <Resultado>apto</Resultado>
+        <Observaciones>Estudiante destacado</Observaciones>
+        <IP>192.168.1.3</IP>
+    </Alumno>
+</Alumnado>
