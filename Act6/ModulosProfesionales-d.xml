@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ModulosProfesionales SYSTEM "ModulosProfesionales.dtd">
+
+
+<ModulosProfesionales>
+    <ModuloProfesional nombre="LMSGI">
+        <Contenidos>
+            <UD tipo="Teoria" descripcion="Introducción al lenguaje de marcas"/>
+            <UD tipo="Practica" descripcion="Creación de una página web simple"/>
+            <UD tipo="Teoria" descripcion="Fundamentos de la semántica HTML"/>
+            <UD tipo="Practica" descripcion="Creación de una tabla en HTML"/>
+        </Contenidos>
+    </ModuloProfesional>
+    <ModuloProfesional nombre="ED">
+        <Contenidos>
+            <UD tipo="Teoria" descripcion="Introducción al entorno de desarrollo"/>
+            <UD tipo="Practica" descripcion="Configuración de un entorno de desarrollo"/>
+            <UD tipo="Teoria" descripcion="Depuración de código"/>
+            <UD tipo="Practica" descripcion="Pruebas unitarias"/>
+        </Contenidos>
+    </ModuloProfesional>
+    <ModuloProfesional nombre="SIINF">
+        <Contenidos>
+            <UD tipo="Teoria" descripcion="Introducción al sistema informático"/>
+            <UD tipo="Practica" descripcion="Instalación de un sistema operativo"/>
+            <UD tipo="Teoria" descripcion="Administración de sistemas"/>
+            <UD tipo="Practica" descripcion="Gestión de usuarios y permisos"/>
+        </Contenidos>
+    </ModuloProfesional>
+    <ModuloProfesional nombre="BBDD">
+        <Contenidos>
+            <UD tipo="Teoria" descripcion="Introducción a las bases de datos"/>
+            <UD tipo="Practica" descripcion="Creación de una base de datos simple"/>
+            <UD tipo="Teoria" descripcion="Consultas SQL"/>
+            <UD tipo="Practica" descripcion="Inserción y actualización de datos"/>
+        </Contenidos>
+    </ModuloProfesional>
+    <ModuloProfesional nombre="Programación">
+        <Contenidos>
+            <UD tipo="Teoria" descripcion="Introducción a la programación"/>
+            <UD tipo="Practica" descripcion="Desarrollo de una aplicación simple"/>
+            <UD tipo="Teoria" descripcion="Fundamentos de la programación orientada a objetos"/>
+            <UD tipo="Practica" descripcion="Creación de una clase y métodos en Java"/>
+        </Contenidos>
+    </ModuloProfesional>
+</ModulosProfesionales>

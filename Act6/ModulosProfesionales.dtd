@@ -1,0 +1,7 @@
+<!ELEMENT ModulosProfesionales (ModuloProfesional*)>
+<!ELEMENT ModuloProfesional (Contenidos)>
+<!ATTLIST ModuloProfesional nombre CDATA #REQUIRED>
+<!ELEMENT Contenidos (UD*)>
+<!ELEMENT UD (#PCDATA)>
+<!ATTLIST UD tipo CDATA #REQUIRED>
+<!ATTLIST UD descripcion CDATA #REQUIRED>

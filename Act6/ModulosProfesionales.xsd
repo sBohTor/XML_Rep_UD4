@@ -1,0 +1,27 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="ModulosProfesionales">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="ModuloProfesional" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Contenidos">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="UD" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:attribute name="tipo" type="xs:string" use="required"/>
+                                                <xs:attribute name="descripcion" type="xs:string" use="required"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="nombre" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
