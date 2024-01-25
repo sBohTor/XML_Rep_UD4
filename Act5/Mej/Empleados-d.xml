@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Empleados SYSTEM "Empleados.dtd">
+<Empleados>
+    <Empleado>
+        <ID>1</ID>
+        <Nombre>John Doe</Nombre>
+        <Departamento>Marketing</Departamento>
+        <Salario>50000</Salario>
+        <IP>192.168.1.20</IP>
+    </Empleado>
+    <Empleado>
+        <ID>2</ID>
+        <Nombre>Jane Smith</Nombre>
+        <Departamento>Finanzas</Departamento>
+        <Salario>60000</Salario>
+        <MAC>00:11:22:33:44:55</MAC>
+    </Empleado>
+    <Empleado>
+        <ID>3</ID>
+        <Nombre>Bob Johnson</Nombre>
+        <Departamento>Recursos Humanos</Departamento>
+        <Salario>55000</Salario>
+        <IP>192.168.1.22</IP>
+    </Empleado>
+    <Empleado>
+        <ID>4</ID>
+        <Nombre>Alice Williams</Nombre>
+        <Departamento>Ventas</Departamento>
+        <Salario>65000</Salario>
+        <MAC>66:77:88:99:AA:BB</MAC>
+    </Empleado>
+</Empleados>

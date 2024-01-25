@@ -1,0 +1,8 @@
+<!ELEMENT Empleados (Empleado*)>
+<!ELEMENT Empleado (ID,Nombre,Departamento,Salario,(IP|MAC))>
+<!ELEMENT ID (#PCDATA)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Departamento (#PCDATA)>
+<!ELEMENT Salario (#PCDATA)>
+<!ELEMENT IP (#PCDATA)>
+<!ELEMENT MAC (#PCDATA)>
