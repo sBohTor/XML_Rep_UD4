@@ -1,0 +1,8 @@
+<!ELEMENT IngredientesRecetas (Receta*)>
+<!ELEMENT Receta (Ingredientes)>
+<!ATTLIST Receta nombre CDATA #REQUIRED>
+<!ELEMENT Ingredientes (Ingrediente*)>
+<!ELEMENT Ingrediente (#PCDATA)>
+<!ATTLIST Ingrediente cantidad CDATA #REQUIRED>
+<!ATTLIST Ingrediente unidad CDATA #REQUIRED>
+<!ATTLIST Ingrediente nombre CDATA #REQUIRED>

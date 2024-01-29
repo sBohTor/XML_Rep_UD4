@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IngredientesRecetas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="IngredientesRecetas.xsd">
+
+    <Receta nombre="Paella Valenciana">
+        <Ingredientes>
+            <Ingrediente cantidad="2" unidad="kg" nombre="Arroz"/>
+            <Ingrediente cantidad="1" unidad="l" nombre="Caldo de pollo"/>
+            <Ingrediente cantidad="1" unidad="" nombre="Ajo"/>
+            <Ingrediente cantidad="1" unidad="" nombre="Tomate"/>
+        </Ingredientes>
+    </Receta>
+    <Receta nombre="Gazpacho Andaluz">
+        <Ingredientes>
+            <Ingrediente cantidad="2" unidad="kg" nombre="Tomate"/>
+            <Ingrediente cantidad="1" unidad="l" nombre="Aceite de oliva"/>
+            <Ingrediente cantidad="1" unidad="" nombre="Ajo"/>
+            <Ingrediente cantidad="1" unidad="" nombre="Pan"/>
+        </Ingredientes>
+    </Receta>
+    <Receta nombre="Ensalada Cesar">
+        <Ingredientes>
+            <Ingrediente cantidad="2" unidad="" nombre="Lechuga"/>
+            <Ingrediente cantidad="1" unidad="" nombre="Parmesano"/>
+            <Ingrediente cantidad="1" unidad="" nombre="Huevos duros"/>
+            <Ingrediente cantidad="1" unidad="" nombre="Aceite de oliva"/>
+        </Ingredientes>
+    </Receta>
+    <Receta nombre="Pasta Carbonara">
+        <Ingredientes>
+            <Ingrediente cantidad="200" unidad="g" nombre="Espagueti"/>
+            <Ingrediente cantidad="2" unidad="" nombre="Huevos"/>
+            <Ingrediente cantidad="100" unidad="g" nombre="Parmesano rallado"/>
+            <Ingrediente cantidad="1" unidad="" nombre="Aceite de oliva"/>
+        </Ingredientes>
+    </Receta>
+</IngredientesRecetas>
