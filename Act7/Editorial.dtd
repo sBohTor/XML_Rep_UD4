@@ -1,0 +1,17 @@
+<!ELEMENT informeVentas (cabecera, tabla)>
+<!ATTLIST informeVentas fecha CDATA #REQUIRED>
+
+<!ELEMENT cabecera (titulo, descripcion)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+
+<!ELEMENT tabla (datos)>
+<!ELEMENT datos (region+)>
+
+<!ELEMENT region (trimestre+)>
+<!ATTLIST region nombre CDATA #REQUIRED>
+
+<!ELEMENT trimestre (librosVendidos)>
+<!ATTLIST trimestre numero CDATA #REQUIRED>
+
+<!ELEMENT librosVendidos (#PCDATA)>
