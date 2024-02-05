@@ -1,0 +1,145 @@
+{
+  "informeVentas": {
+    "$": {
+      "fecha": "30/12/2009"
+    },
+    "cabecera": [
+      {
+        "titulo": [
+          "Informe regional del ventas"
+        ],
+        "descripcion": [
+          "informe de ventas para las regiones Norte, Centro y Sur"
+        ]
+      }
+    ],
+    "tabla": [
+      {
+        "datos": [
+          {
+            "region": [
+              {
+                "$": {
+                  "nombre": "Norte"
+                },
+                "trimestre": [
+                  {
+                    "$": {
+                      "numero": "1"
+                    },
+                    "librosVendidos": [
+                      "24000"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "numero": "2"
+                    },
+                    "librosVendidos": [
+                      "38600"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "numero": "3"
+                    },
+                    "librosVendidos": [
+                      "NO_INFO"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "numero": "4"
+                    },
+                    "librosVendidos": [
+                      "NO_INFO"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "nombre": "Centro"
+                },
+                "trimestre": [
+                  {
+                    "$": {
+                      "numero": "1"
+                    },
+                    "librosVendidos": [
+                      "NO_INFO"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "numero": "2"
+                    },
+                    "librosVendidos": [
+                      "16080"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "numero": "3"
+                    },
+                    "librosVendidos": [
+                      "25000"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "numero": "4"
+                    },
+                    "librosVendidos": [
+                      "29000"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "nombre": "Sur"
+                },
+                "trimestre": [
+                  {
+                    "$": {
+                      "numero": "1"
+                    },
+                    "librosVendidos": [
+                      "27000"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "numero": "2"
+                    },
+                    "librosVendidos": [
+                      "31400"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "numero": "3"
+                    },
+                    "librosVendidos": [
+                      "40100"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "numero": "4"
+                    },
+                    "librosVendidos": [
+                      "30000"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+   

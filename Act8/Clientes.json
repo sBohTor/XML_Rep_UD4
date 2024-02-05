@@ -1,0 +1,171 @@
+{
+  "Clientes": {
+    "Cliente": [
+      {
+        "Sede": [
+          "NY"
+        ],
+        "Empleado": [
+          "Maria Rodriguez"
+        ],
+        "Fecha": [
+          "2024-02-22"
+        ],
+        "Detalles": [
+          {
+            "Codigo": [
+              "XYZ-789"
+            ],
+            "Descripcion": [
+              "Insolvente"
+            ],
+            "NumViviendas": [
+              "3"
+            ],
+            "Coste": [
+              "60000"
+            ],
+            "Resumen": [
+              "Tres viviendas de lujo"
+            ],
+            "Plazo": [
+              "2025-02-22"
+            ]
+          }
+        ]
+      },
+      {
+        "Sede": [
+          "LA"
+        ],
+        "Empleado": [
+          "Carlos Garcia"
+        ],
+        "Fecha": [
+          "2024-03-22"
+        ],
+        "Detalles": [
+          {
+            "Codigo": [
+              "LMN-456"
+            ],
+            "Descripcion": [
+              "Solvente"
+            ],
+            "NumViviendas": [
+              "1"
+            ],
+            "Coste": [
+              "30000"
+            ],
+            "Resumen": [
+              "Una vivienda de lujo"
+            ],
+            "Plazo": [
+              "2025-03-22"
+            ]
+          }
+        ]
+      },
+      {
+        "Sede": [
+          "TX"
+        ],
+        "Empleado": [
+          "Juan Martinez"
+        ],
+        "Fecha": [
+          "2024-04-22"
+        ],
+        "Detalles": [
+          {
+            "Codigo": [
+              "OPQ-012"
+            ],
+            "Descripcion": [
+              "Solvente"
+            ],
+            "NumViviendas": [
+              "4"
+            ],
+            "Coste": [
+              "70000"
+            ],
+            "Resumen": [
+              "Cuatro viviendas de lujo"
+            ],
+            "Plazo": [
+              "2025-04-22"
+            ]
+          }
+        ]
+      },
+      {
+        "Sede": [
+          "FL"
+        ],
+        "Empleado": [
+          "Pedro Lopez"
+        ],
+        "Fecha": [
+          "2024-05-22"
+        ],
+        "Detalles": [
+          {
+            "Codigo": [
+              "RST-345"
+            ],
+            "Descripcion": [
+              "Insolvente"
+            ],
+            "NumViviendas": [
+              "2"
+            ],
+            "Coste": [
+              "50000"
+            ],
+            "Resumen": [
+              "Dos viviendas de lujo"
+            ],
+            "Plazo": [
+              "2025-05-22"
+            ]
+          }
+        ]
+      },
+      {
+        "Sede": [
+          "IL"
+        ],
+        "Empleado": [
+          "Laura Fernandez"
+        ],
+        "Fecha": [
+          "2024-06-22"
+        ],
+        "Detalles": [
+          {
+            "Codigo": [
+              "UVW-678"
+            ],
+            "Descripcion": [
+              "Solvente"
+            ],
+            "NumViviendas": [
+              "3"
+            ],
+            "Coste": [
+              "60000"
+            ],
+            "Resumen": [
+              "Tres viviendas de lujo"
+            ],
+            "Plazo": [
+              "2025-06-22"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+     "Alumnado": {
+       "type": "object",
+       "properties": {
+         "Alumno": {
+           "type": "array",
+           "items": {
+             "type": "object",
+             "properties": {
+               "NIF": {
+                 "type": "string",
+                 "pattern": "string"
+               },
+               "Resultado": {
+                 "type": "string",
+                 "enum": ["apto", "No apto"]
+               },
+               "Observaciones": {
+                 "type": "string"
+               },
+               "IP": {
+                 "type": "string",
+                 "format": "ipv4"
+               },
+               "MAC": {
+                 "type": "string",
+                 "pattern": "string"
+               }
+             },
+             "required": ["NIF", "Resultado", "Observaciones"],
+             "additionalProperties": false
+           }
+         }
+       },
+       "required": ["Alumno"],
+       "additionalProperties": false
+     }
+  },
+  "required": ["Alumnado"],
+  "additionalProperties": false
+ }
+ 

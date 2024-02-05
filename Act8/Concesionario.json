@@ -1,0 +1,91 @@
+{
+    "Estudiantes": {
+      "estudiante": [
+        {
+          "nombre": [
+            "Juan Pérez"
+          ],
+          "edad": [
+            "20"
+          ],
+          "carrera": [
+            "Ingeniería en Computación"
+          ],
+          "universidad": [
+            "Universidad XYZ"
+          ],
+          "promedio": [
+            "8.5"
+          ]
+        },
+        {
+          "nombre": [
+            "Ana Sánchez"
+          ],
+          "edad": [
+            "22"
+          ],
+          "carrera": [
+            "Derecho"
+          ],
+          "universidad": [
+            "Universidad ABC"
+          ],
+          "promedio": [
+            "9.0"
+          ]
+        },
+        {
+          "nombre": [
+            "Carlos López"
+          ],
+          "edad": [
+            "21"
+          ],
+          "carrera": [
+            "Medicina"
+          ],
+          "universidad": [
+            "Universidad DEF"
+          ],
+          "promedio": [
+            "8.8"
+          ]
+        },
+        {
+          "nombre": [
+            "Maria García"
+          ],
+          "edad": [
+            "23"
+          ],
+          "carrera": [
+            "Arquitectura"
+          ],
+          "universidad": [
+            "Universidad GHI"
+          ],
+          "promedio": [
+            "8.7"
+          ]
+        },
+        {
+          "nombre": [
+            "Pedro Martínez"
+          ],
+          "edad": [
+            "24"
+          ],
+          "carrera": [
+            "Periodismo"
+          ],
+          "universidad": [
+            "Universidad JKL"
+          ],
+          "promedio": [
+            "8.9"
+          ]
+        }
+      ]
+    }
+  }

@@ -1,0 +1,181 @@
+{
+  "ModulosProfesionales": {
+    "ModuloProfesional": [
+      {
+        "$": {
+          "nombre": "LMSGI"
+        },
+        "Contenidos": [
+          {
+            "UD": [
+              {
+                "$": {
+                  "tipo": "Teoria",
+                  "descripcion": "Introducción al lenguaje de marcas"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Practica",
+                  "descripcion": "Creación de una página web simple"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Teoria",
+                  "descripcion": "Fundamentos de la semántica HTML"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Practica",
+                  "descripcion": "Creación de una tabla en HTML"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "nombre": "ED"
+        },
+        "Contenidos": [
+          {
+            "UD": [
+              {
+                "$": {
+                  "tipo": "Teoria",
+                  "descripcion": "Introducción al entorno de desarrollo"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Practica",
+                  "descripcion": "Configuración de un entorno de desarrollo"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Teoria",
+                  "descripcion": "Depuración de código"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Practica",
+                  "descripcion": "Pruebas unitarias"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "nombre": "SIINF"
+        },
+        "Contenidos": [
+          {
+            "UD": [
+              {
+                "$": {
+                  "tipo": "Teoria",
+                  "descripcion": "Introducción al sistema informático"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Practica",
+                  "descripcion": "Instalación de un sistema operativo"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Teoria",
+                  "descripcion": "Administración de sistemas"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Practica",
+                  "descripcion": "Gestión de usuarios y permisos"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "nombre": "BBDD"
+        },
+        "Contenidos": [
+          {
+            "UD": [
+              {
+                "$": {
+                  "tipo": "Teoria",
+                  "descripcion": "Introducción a las bases de datos"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Practica",
+                  "descripcion": "Creación de una base de datos simple"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Teoria",
+                  "descripcion": "Consultas SQL"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Practica",
+                  "descripcion": "Inserción y actualización de datos"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "nombre": "Programación"
+        },
+        "Contenidos": [
+          {
+            "UD": [
+              {
+                "$": {
+                  "tipo": "Teoria",
+                  "descripcion": "Introducción a la programación"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Practica",
+                  "descripcion": "Desarrollo de una aplicación simple"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Teoria",
+                  "descripcion": "Fundamentos de la programación orientada a objetos"
+                }
+              },
+              {
+                "$": {
+                  "tipo": "Practica",
+                  "descripcion": "Creación de una clase y métodos en Java"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
