@@ -1,0 +1,24 @@
+{
+  "BDsms": {
+    "sms": [
+      {
+        "telefono": "673643321",
+        "fecha": "4/2/1999",
+        "hora": "22:55",
+        "mensaje": "Juego1: WOW"
+      },
+      {
+        "telefono": "657683331",
+        "fecha": "1/12/2012",
+        "hora": "13:45",
+        "mensaje": "Juego2: Fortnite"
+      },
+      {
+        "telefono": "345221177",
+        "fecha": "22/5/2003",
+        "hora": "15:21",
+        "mensaje": "Juego1: Tetris"
+      }
+    ]
+  }
+}

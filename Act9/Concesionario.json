@@ -1,0 +1,42 @@
+{
+    "Concesionario": {
+      "coches": [
+        {
+          "codigoCoche":  0,
+          "marca": "BMW",
+          "modelo": "1",
+          "matricula": "3323 NVK",
+          "potencia": "405CV",
+          "plazas":  4,
+          "numeroPuertas":  5
+        },
+        {
+          "codigoCoche":  1,
+          "marca": "Lamborguini",
+          "modelo": "Huracan",
+          "matricula": "1233 CCK",
+          "potencia": "579CV",
+          "plazas":  2,
+          "numeroPuertas":  3
+        },
+        {
+          "codigoCoche":  2,
+          "marca": "BMW",
+          "modelo": "1",
+          "matricula": "3323 NVK",
+          "potencia": "405CV",
+          "plazas":  4,
+          "numeroPuertas":  5
+        },
+        {
+          "codigoCoche":  3,
+          "marca": "Hyundai",
+          "modelo": "Coupe V6",
+          "matricula": "0987 RTX",
+          "potencia": "170CV",
+          "plazas":  4,
+          "numeroPuertas":  3
+        }
+      ]
+    }
+  }

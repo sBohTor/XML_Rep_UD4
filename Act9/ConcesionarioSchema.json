@@ -1,0 +1,53 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "Concesionario": {
+        "type": "object",
+        "properties": {
+          "coches": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "codigoCoche": {
+                  "type": "integer",
+                  "minimum":  0,
+                  "minLength":  1
+                },
+                "marca": {
+                  "type": "string",
+                  "minLength":  1
+                },
+                "modelo": {
+                  "type": "string",
+                  "minLength":  1
+                },
+                "matricula": {
+                  "type": "string",
+                  "minLength":  1
+                },
+                "potencia": {
+                  "type": "string",
+                  "minLength":  1
+                },
+                "plazas": {
+                  "type": "integer",
+                  "minimum":  1,
+                  "minLength":  1
+                },
+                "numeroPuertas": {
+                  "type": "integer",
+                  "minimum":  1,
+                  "minLength":  1
+                }
+              },
+              "required": ["codigoCoche", "marca", "modelo", "matricula", "potencia", "plazas", "numeroPuertas"]
+            }
+          }
+        },
+        "required": ["coches"]
+      }
+    }
+  }
+  

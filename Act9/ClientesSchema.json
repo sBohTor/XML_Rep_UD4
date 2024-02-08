@@ -1,0 +1,67 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "Clientes": {
+        "type": "object",
+        "properties": {
+          "Cliente": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Sede": {
+                  "type": "string",
+                  "minLength":  1
+                },
+                "Empleado": {
+                  "type": "string",
+                  "minLength":  1
+                },
+                "Fecha": {
+                  "type": "string",
+                  "format": "date",
+                  "minLength":  1
+                },
+                "Detalles": {
+                  "type": "object",
+                  "properties": {
+                    "Codigo": {
+                      "type": "string",
+                      "minLength":  1
+                    },
+                    "Descripcion": {
+                      "type": "string",
+                      "minLength":  1
+                    },
+                    "NumViviendas": {
+                      "type": "integer",
+                      "minimum":  1,
+                      "minLength":  1
+                    },
+                    "Coste": {
+                      "type": "number",
+                      "minLength":  1
+                    },
+                    "Resumen": {
+                      "type": "string",
+                      "minLength":  1
+                    },
+                    "Plazo": {
+                      "type": "string",
+                      "format": "date",
+                      "minLength":  1
+                    }
+                  },
+                  "required": ["Codigo", "Descripcion", "NumViviendas", "Coste", "Resumen", "Plazo"]
+                }
+              },
+              "required": ["Sede", "Empleado", "Fecha", "Detalles"]
+            }
+          }
+        },
+        "required": ["Cliente"]
+      }
+    }
+  }
+  

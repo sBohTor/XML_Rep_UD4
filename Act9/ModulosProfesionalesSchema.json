@@ -1,0 +1,49 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "ModulosProfesionales": {
+        "type": "object",
+        "properties": {
+          "ModuloProfesional": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "nombre": {
+                  "type": "string",
+                  "minLength":  1
+                },
+                "Contenidos": {
+                  "type": "object",
+                  "properties": {
+                    "UD": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "tipo": {
+                            "type": "string",
+                            "minLength":  1
+                          },
+                          "descripcion": {
+                            "type": "string",
+                            "minLength":  1
+                          }
+                        },
+                        "required": ["tipo", "descripcion"]
+                      }
+                    }
+                  },
+                  "required": ["UD"]
+                }
+              },
+              "required": ["nombre", "Contenidos"]
+            }
+          }
+        },
+        "required": ["ModuloProfesional"]
+      }
+    }
+  }
+  
